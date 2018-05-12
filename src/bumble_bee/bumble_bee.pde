@@ -28,6 +28,7 @@ void drawFlower(int x, int y) {
 void drawBeeFace(int BeeFaceX, int BeeFaceY) {
   noStroke();
   fill(0, 0, 0);
+  
   stroke(1);
   strokeWeight(5);
   line(BeeFaceX-10, BeeFaceY-27, BeeFaceX-17, BeeFaceY-50);
@@ -52,4 +53,3 @@ void setup() {
   background(160, 160, 160); 
   drawFlower(350, 100);
 }
-
