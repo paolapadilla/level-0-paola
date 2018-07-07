@@ -21,6 +21,8 @@ public class Quizgame {
 			score++;
 		}
 		JOptionPane.showMessageDialog(null, "your total score is " + score + " points");
+	System.out.print("12345677778890");
+	System.out.print("243423423424711");
 	}
 
 }
