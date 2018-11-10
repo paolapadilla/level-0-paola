@@ -10,6 +10,8 @@ void draw(){
   
   //left eye
   ellipse(300, 275, 150, 110);
+  
+  
   ellipse(505, 275, 150, 110);
   fill(000, 000, 000);
   if(mouseX >264 && mouseX<334 && mouseY >245 && mouseY <313){
